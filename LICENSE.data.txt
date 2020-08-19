@@ -1,0 +1,57 @@
+Data: African cuckoo paths in Nigeria (Chapter 10)
+
+Files:
+
+* African cuckoo in Nigeria (data from Iwajomo et al. 2018).csv
+
+Source: [doi:10.5441/001/1.b800b7c3](http://dx.doi.org/10.5441/001/1.b800b7c3)
+Licence: CC-0
+
+
+Data: DBpedia dumps (Chapters 6 and 7)
+
+Files:
+
+* instance_types_en.ttl.bz2
+* mappingbased_literals_en.ttl.bz2
+* mappingbased_objects_en.ttl.bz2
+* geonames_links.ttl.bz2
+* dbpedia10_cities1000_base.ttl
+* dbpedia10_dev_conservative.tsv
+* dbpedia11_cities1000_base.ttl
+* dbpedia11_dev_conservative.tsv
+* dbpedia12_cities1000_base.ttl
+* dbpedia12_dev_conservative.tsv
+* dbpedia14_dev_conservative.tsv 
+* dbpedia15_cities1000_base.ttl
+* dbpedia15_dev_conservative.tsv
+* dbpedia13_cities1000_base.ttl
+* dbpedia13_dev_conservative.tsv
+* dbpedia14_cities1000_base.ttl
+
+Source: https://dbpedia.org
+Licence: CC-BY-SA 3.0
+
+
+
+Data: City names, GPS coordinates and population from GeoNames (Chapters 6, 9 and 10)
+
+Files:
+
+* cities1000.txt                    
+* NG.txt
+* CM.txt                                                         
+
+Source: https://www.geonames.org/
+Licence: CC BY-4.0
+
+
+
+Data: historical world population per country (Chapter 7)
+
+Files:
+
+* API_SP.POP.TOTL_DS2_en_csv_v2_10224786.csv
+
+Source: https://data.worldbank.org/indicator/SP.POP.TOTL
+Licence: CC BY-4.0
