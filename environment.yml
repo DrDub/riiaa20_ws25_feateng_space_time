@@ -5,6 +5,7 @@ channels:
    - conda-forge
 dependencies:
    - python>=3.7
+   - pip
    - numpy
    - scipy
    - pandas
@@ -14,5 +15,7 @@ dependencies:
    - ipykernel
    - tqdm
    - scikit-learn
+   - folium
+   - geopy
    - pip:
      - statsmodels
