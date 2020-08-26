@@ -108,6 +108,7 @@ pip3 install matplotlib
 pip3 install graphviz
 
 pip3 install geopy
+pip3 install folium
 
 
 ## Launch Jupyter with the feateng environment
