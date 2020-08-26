@@ -1,6 +1,10 @@
 # Source code for RIIAA'20 workshop 25: Feature Engineering for Spatial and Temporal Data
 
-This workshop consists of three notebooks working on three datasets.
+This workshop consists of three notebooks working on three datasets but the last notebook is FYI, the hands-on bits are within the first two notebooks.
+
+The theory part (in Spanish) is available here: 
+
+[![Theory](https://img.youtube.com/vi/0ev3UfA1fo4/hqdefault.jpg)](https://youtu.be/0ev3UfA1fo4)
 
 ## Spatial Data: African cuckoos in Nigeria
 
