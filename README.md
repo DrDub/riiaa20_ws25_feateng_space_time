@@ -2,7 +2,11 @@
 
 This workshop consists of three notebooks working on three datasets but the last notebook is FYI, the hands-on bits are within the first two notebooks.
 
-The theory part (in Spanish) is available here: 
+The theory part is available here: 
+
+[![Theory](https://img.youtube.com/vi/ZbYwIzwkL7Y/hqdefault.jpg)](https://www.youtube.com/watch?v=ZbYwIzwkL7Y&list=PLu2jWxoGf_emTdn3RobLaqoyzYnbgptQg&index=4)
+
+The original theory part in Spanish is available here: 
 
 [![Theory](https://img.youtube.com/vi/0ev3UfA1fo4/hqdefault.jpg)](https://youtu.be/0ev3UfA1fo4)
 
